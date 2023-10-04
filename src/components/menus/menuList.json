@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Menu",
+    "menu": [
+      {
+        "url": "/dashboard",
+        "icon": "MdAnalytics",
+        "name": "Dashboard",
+        "subMenu": [
+          {
+            "url": "/dashboard/analyticsdashboard",
+            "name": "Analytics dashboard"
+          },
+          {
+            "url": "/dashboard/ecommerce",
+            "name": "Ecommerce dashboard"
+          },
+          {
+            "url": "/dashboard/project",
+            "name": "Project dashboard"
+          },
+          {
+            "url": "/dashboard/crm",
+            "name": "CRM dashboard"
+          },
+          {
+            "url": "/dashboard/banking",
+            "name": "Banking dashboard"
+          }
+        ]
+      },
+      {
+        "url": "/changelog",
+        "icon": "MdUpdate",
+        "name": "Changelog",
+        "version": "1.0.0"
+      }
+    ]
+  },
+
+  {
+    "title": "apps",
+    "menu": [
+      {
+        "url": "/apps/chat",
+        "icon": "MdSettings",
+        "name": "Chat"
+      },
+      {
+        "url": "/apps/email",
+        "icon": "MdSettings",
+        "name": "Email"
+      },
+      {
+        "url": "/apps/kanban",
+        "icon": "MdSettings",
+        "name": "Kanban"
+      },
+      {
+        "url": "/apps/calender",
+        "icon": "MdSettings",
+        "name": "Calender"
+      },
+      {
+        "url": "/apps/todo",
+        "icon": "MdSettings",
+        "name": "Todo"
+      },
+      {
+        "url": "/apps/projects",
+        "icon": "MdSettings",
+        "name": "Projects",
+        "subMenu": [{}]
+      }
+    ]
+  },
+  {
+    "title": "pages",
+    "menu": [
+      {
+        "url": "/pages/authentication",
+        "icon": "MdSettings",
+        "name": "Authentication",
+        "subMenu": [{}]
+      },
+      {
+        "url": "/pages/utility",
+        "icon": "MdSettings",
+        "name": "Utiity",
+        "subMenu": [{}]
+      }
+    ]
+  }
+]
